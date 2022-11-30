@@ -1,0 +1,15 @@
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\bin\Debug\net6.0\IterationPreClass.exe
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\bin\Debug\net6.0\IterationPreClass.deps.json
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\bin\Debug\net6.0\IterationPreClass.runtimeconfig.json
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\bin\Debug\net6.0\IterationPreClass.dll
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\bin\Debug\net6.0\IterationPreClass.pdb
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\obj\Debug\net6.0\IterationPreClass.csproj.AssemblyReference.cache
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\obj\Debug\net6.0\IterationPreClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\obj\Debug\net6.0\IterationPreClass.AssemblyInfoInputs.cache
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\obj\Debug\net6.0\IterationPreClass.AssemblyInfo.cs
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\obj\Debug\net6.0\IterationPreClass.csproj.CoreCompileInputs.cache
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\obj\Debug\net6.0\IterationPreClass.dll
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\obj\Debug\net6.0\refint\IterationPreClass.dll
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\obj\Debug\net6.0\IterationPreClass.pdb
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\obj\Debug\net6.0\IterationPreClass.genruntimeconfig.cache
+C:\Users\Maxx705\Desktop\repos\IterationPreClass\IterationPreClass\obj\Debug\net6.0\ref\IterationPreClass.dll
